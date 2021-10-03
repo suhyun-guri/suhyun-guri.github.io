@@ -4,25 +4,25 @@ url : "https://naye0ng.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Guri's BLOG
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Suhyun Kim
+    description : Hello, I'm a student majoring in data analysis and now i'm studying the web.
     experience :
       - start : 2017-05-03
         end : 2018-05-06
         experience : company name, title
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : Python
+        value : 95  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email: myksh0903@naver.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
     github: naye0ng
     gitlab: 
