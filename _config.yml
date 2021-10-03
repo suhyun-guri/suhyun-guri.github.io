@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://suhyun-guri.github.io"
 
 # Blog Settings
 theme_settings :
@@ -9,13 +9,13 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/나 그림.jpg
     username : Suhyun Kim
     description : Hello, I'm a student majoring in data analysis and now i'm studying the web.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2020-12-21
+        end : 2021-02-02
+        experience : NovaSystem, Intern
     skills : 
       - skill : Python
         value : 95  # Percent value
@@ -24,7 +24,7 @@ theme_settings :
   icons :
     email: myksh0903@naver.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: https://github.com/suhyun-guri
     gitlab: 
     bitbucket: 
     google_plus:
