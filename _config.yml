@@ -5,7 +5,7 @@ url : "https://suhyun-guri.github.io"
 # Blog Settings
 theme_settings :
   title : Guri's BLOG
-  favicon : assets/favicon.ico
+  favicon : assets/img/flame.png
 
   # Profile Settings
   profile :
@@ -16,15 +16,22 @@ theme_settings :
       - start : 2020-12-21
         end : 2021-02-02
         experience : NovaSystem, Intern
+      - start : 2021-05-01
+        end : 2021-12-31
+        experience : Suwon Univ. Researcher
     skills : 
       - skill : Python
-        value : 95  # Percent value
+        value : 80  # Percent value
+      - skill : SQL
+        value : 10
+      - skill : JavaScript
+        value : 10
         
   # Icons
   icons :
     email: myksh0903@naver.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: https://github.com/suhyun-guri
+    github: suhyun-guri
     gitlab: 
     bitbucket: 
     google_plus:
