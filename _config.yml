@@ -5,13 +5,13 @@ url : "https://suhyun-guri.github.io"
 # Blog Settings
 theme_settings :
   title : Guri's BLOG
-  favicon : assets/img/flame.png
+  favicon : assets/img/flame.ico
 
   # Profile Settings
   profile :
     image : assets/img/나 그림.jpg
     username : Suhyun Kim
-    description : Hello, I'm a student majoring in data analysis and now i'm studying the web.
+    description : Hello, I'm a student majoring in data analysis and now i'm studying the web development..
     experience :
       - start : 2020-12-21
         end : 2021-02-02
@@ -44,7 +44,7 @@ theme_settings :
   disqus_shortname :
 
 # Pagination
-paginate: 5
+paginate: 6
 paginate_path: "blog/page:num"
 
 # Build Ssttings
